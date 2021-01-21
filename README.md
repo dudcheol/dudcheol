@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=parkyc0301)](https://solved.ac/parkyc0301)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dudcheol&show_icons=true&theme={theme})](https://github.com/dudcheol/github-readme-stats)
+
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkyc0301)](https://solved.ac/parkyc0301) -->
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkyc0301)](https://solved.ac/parkyc0301) -->
 
 <!--
 **dudcheol/dudcheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
