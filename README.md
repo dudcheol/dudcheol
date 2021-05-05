@@ -13,9 +13,9 @@ I’m currently working on some project at 삼성 청년 SW 아카데미(SSAFY).
 
 - 🌱 I’m currently learning
 <div align=center>
-  
+
+![vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![webrtc](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white)
-![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
