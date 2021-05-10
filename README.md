@@ -16,6 +16,8 @@ I’m currently working on some project at 삼성 청년 SW 아카데미(SSAFY).
 
 ![vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![webrtc](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white)
+<br>
+현재 GitLab에서 OpenVidu 오픈소스를 활용하여 SSAFY 자율 프로젝트를 진행하고 있습니다!
 
 </div>
 
